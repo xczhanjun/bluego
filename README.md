@@ -1,2 +1,2 @@
 # bluego
-golang hcitool for bluetooth Low Energy 4.0 (BLE 4.0) for raspberry pi 3 
+golang hcitool for Bluetooth Low Energy 4.0 (BLE 4.0) on raspberry pi 3 
